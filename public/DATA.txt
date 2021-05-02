@@ -1,0 +1,5 @@
+EN ESTE PROYECTO SIGO LOS PASOS DE YOUDEVS CON EL PROYECTO Q SUBIO E GIT DE UNA MAQUETA STANDART CON POSTS.
+LA carpeta esta aca afuera y la carpeta images contiene las imagenes a levantar.
+El middleware de autorizacion esta deshabilitado para poder ver el home sin el Policia jaja
+
+
